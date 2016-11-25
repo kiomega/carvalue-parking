@@ -20,7 +20,8 @@ subtitle: "A free HTML5 agency template"
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 # baseurl: "/" # the subpath of your site
-url: "http://realvalue.com.au/" # the base hostname & protocol for your site
+url: "https://carvalue.com.au/" # the base hostname & protocol for your site
+enforce_ssl: carvalue.com.au
 baseurl: ""
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
