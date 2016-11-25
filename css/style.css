@@ -12,6 +12,10 @@
    font-weight: bold;
  }
 
+ .capitalize {
+     text-transform: uppercase !important;
+ }
+
  .center-text {
    text-align: center;
  }
