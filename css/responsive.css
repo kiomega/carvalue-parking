@@ -162,6 +162,11 @@ px      68    160    252    */
   /*---------------------------------------------
 					Index Start 
 -----------------------------------------------*/
+  .navbar-brand > img {
+    height: 25px;
+    margin-top: 18px;
+  }
+
   .heading {
     padding-left: 0px;
   }
@@ -183,10 +188,15 @@ px      68    160    252    */
     padding-left: 0px;
   }
   #slider .block h1 {
-    font-size: 20px;
+    font-size: 30px;
+    line-height: 40px;
   }
   #slider .block p {
-    font-size: 13px;
+    font-size: 20px;
+    line-height: 30px;
+  }
+  #intro .block img {
+    padding-left: 0;
   }
   /*--
 	wrapper Start 
