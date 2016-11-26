@@ -23,8 +23,6 @@ subtitle: "Car valuation guides and resources"
 url: "https://carvalue.com.au/" # the base hostname & protocol for your site
 enforce_ssl: carvalue.com.au
 baseurl: ""
-cover: "/assets/cover.png"
-logo: "/assets/logo.png"
 
 # Build settings
 markdown: kramdown

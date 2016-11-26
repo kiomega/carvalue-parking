@@ -180,6 +180,9 @@ px      68    160    252    */
     margin-top: 20px;
     margin-bottom: 20px;
   }
+  #global-header .block {
+    padding-left: 0;
+  }
   #slider {
     padding-top: 90px;
     padding-bottom: 100px;

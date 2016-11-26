@@ -39,8 +39,12 @@ p {
 }
 ul {
   padding: 0;
-  margin: 0;
-  list-style: none;
+  margin: 20px 20px 20px 10px;
+    padding-left: 20px;
+    list-style: round;
+}
+li {
+    margin: 20px 0;
 }
 a,
 a:active,
@@ -72,8 +76,8 @@ header .navbar {
   margin-bottom: 0px;
   border: 0px;
 }
-header .navbar-brand {
-  padding-top: 5px;
+header .navbar-brand img {
+    margin-top: 10px;
 }
 header .navbar-default {
   background: none;
@@ -137,13 +141,16 @@ font header .navbar-default .navbar-nav li a:hover {
 /*--
 	wrapper Start
 --*/
-#intro {
+#intro, #selling, #buying, #post {
   padding: 100px 0;
 }
 #intro .block h2 {
   padding-top: 35px;
   line-height: 27px;
   margin: 0;
+}
+#post .block p {
+    color: #7B7B7B;
 }
 #intro .block p {
   color: #7B7B7B;
