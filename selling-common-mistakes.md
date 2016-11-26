@@ -2,6 +2,7 @@
 layout: article
 title: Common Mistakes When Selling Used Cars
 permalink: /selling-used-cars/common-mistakes-when-selling-used-cars/
+description: Watch out for these common mistakes when selling a used car
 ---
 Let us help you avoid these common mistakes so you can maximise your resale value of your car.
 

@@ -2,6 +2,7 @@
 layout: article
 title: Writing an Ad
 permalink: /selling-used-cars/writing-an-ad/
+description: Get tips on writing an ad for a used car classified
 ---
 There’s a bit of an art to writing a used car ad. Some people get it, others don’t. Follow these tips to help write a good ad.
 

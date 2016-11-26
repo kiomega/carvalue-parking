@@ -2,6 +2,7 @@
 layout: article
 title: Car Valuation for Sellers
 permalink: /selling-used-cars/used-car-valuation/
+description: Learn how to accurately get your car valued when selling a used car
 ---
 Getting your car valued is the first step to selling your car. It will provide a guide as to what you can expect from your potential buyers, and enable you to more confidently negotiate with the buyer, whether that be a car salesman or a private buyer.
 

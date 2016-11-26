@@ -2,6 +2,7 @@
 layout: article
 title: Simple tips and tricks when selling a used car
 permalink: /selling-used-cars/simple-tips-tricks-when-selling-used-car/
+description: Keep these tips and tricks in mind when selling a used car
 ---
 There’s a lot you can do to increase the resale value of your car. Check out some of them here.
 
