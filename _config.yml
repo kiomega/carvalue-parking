@@ -24,9 +24,6 @@ url: "https://carvalue.com.au/" # the base hostname & protocol for your site
 enforce_ssl: carvalue.com.au
 baseurl: ""
 
-# Build settings
-markdown: kramdown
-
 # Google analytics
 # ga_tracking_id: "UA-XXXX-1"
 
