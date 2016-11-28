@@ -1,22 +1,14 @@
-<script>
-    var enforce = "{{ site.enforce_ssl }}";
-    if ((enforce == window.location.host) && (window.location.protocol != "https:"))
-        window.location = window.location.toString().replace(/^http:/, "https:");
-</script>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
+<link rel="canonical" href="{{ site.url }}{{ page.permalink }}">
 <title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
 {% if page.description %}
     <meta name="description" content="{{ page.description }}">
 {% endif %}
-<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
-<!-- CSS -->
-<link rel="stylesheet" href="{{ site.baseurl }}/css/bootstrap.min.css" />
-<link rel="stylesheet" href="{{ site.baseurl }}/css/airspace.css" />
-<link rel="stylesheet" href="{{ site.baseurl }}/css/style.css" />
-<link rel="stylesheet" href="{{ site.baseurl }}/css/animate.css" />
-<link rel="stylesheet" href="{{ site.baseurl }}/css/responsive.css" />
+<link href="{{ site.baseurl }}/css/all.css" type="text/css" rel="stylesheet">
+
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no, minimum-scale=1">
 
 <link rel="apple-touch-icon" sizes="57x57" href="{{ site.baseurl }}/img/favicons//icon-57x57.png">
 <link rel="apple-touch-icon" sizes="60x60" href="{{ site.baseurl }}/img/favicons//icon-60x60.png">
@@ -38,7 +30,3 @@
 <meta name="msapplication-TileImage" content="{{ site.baseurl }}/img/favicons//icon-144x144.png">
 <meta name="msapplication-config" content="{{ site.baseurl }}/img/favicons//browserconfig.xml">
 <meta name="theme-color" content="#FFFFFF">
-
-<!-- Js -->
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-<script src="{{ site.baseurl }}/js/bootstrap.min.js"></script>
